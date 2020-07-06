@@ -3,7 +3,7 @@
 1. 打開 "uPyCraft_V1.1.exe"
 
 2. 打開 Tools->Serial->COM3
-![img](.\img\1.png)
+![img](img\1.png)
 
 3. 選擇 board: esp8266, Firemware Choose:Users
 ![img](\img\2.png)
