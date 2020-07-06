@@ -14,7 +14,7 @@
 
 ![img](img/3.png)
 
-5. 按"OK"刷新
+5. 按"OK"刷新  
 
 ![img](img/4.png)
 
