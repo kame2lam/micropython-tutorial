@@ -3,19 +3,19 @@
 1. 打開 "uPyCraft_V1.1.exe"
 
 2. 打開 Tools->Serial->COM3
-![img](/img/1.png)
+![img](img/1.png)
 
 3. 選擇 board: esp8266, Firemware Choose:Users
-![img](/img/2.png)
+![img](img/2.png)
 
 4. 選擇 "firmware_esp8266-v1.3.5.bin"
-![img](/img/3.png)
+![img](img/3.png)
 
 5. 按"OK"刷新
-![img](/img/4.png)
+![img](img/4.png)
 
 6. 等待100% 更完成刷新
-![img](/img/5.png)
+![img](img/5.png)
 
 7. 將 mpfs.exe 與 boot.py 放在一起，按以下命令操作。
 ```
