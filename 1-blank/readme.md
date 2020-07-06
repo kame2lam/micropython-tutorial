@@ -27,6 +27,8 @@ while True:
 
 2. 打開mpfs.exe
  輸入 `open ws:192.168.10.114,1234` 
+
  `put /1-blnak/blink.py`
+ 
  `execfile blink.py`
  
