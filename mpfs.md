@@ -1,4 +1,4 @@
-#一款 Shell 型 MicroPython 文件資源管理器
+# 一款 Shell 型 MicroPython 文件資源管理器
 
 特點:體積迷你，功能齊全的 MicroPython 管理工具，如：put\get\cat\rm\execfile 等等。
 
