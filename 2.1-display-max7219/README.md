@@ -1,5 +1,7 @@
 1.  硬件接法  
 
+![img](/img/1.jpg)
+
 Wemos D1 Mini-ESP8266    | max7219 8x8 LED Matrix
 ---------------- | ----------------------
 5V               | VCC
